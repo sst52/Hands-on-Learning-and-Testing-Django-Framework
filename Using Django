@@ -4,3 +4,6 @@ Can be used for storing databases as well as for running in server
 
 manage.py is a file which used for running django web server as python manage.py runserver
 
+For look into Django Services we use python manage.py migrate
+
+
