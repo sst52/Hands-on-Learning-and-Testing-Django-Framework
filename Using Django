@@ -6,4 +6,5 @@ manage.py is a file which used for running django web server as python manage.py
 
 For look into Django Services we use python manage.py migrate
 
+For creating the user python manage.py createsuperuser -- To login into Django Admin for creating databases
 
