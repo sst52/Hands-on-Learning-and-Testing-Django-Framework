@@ -28,3 +28,12 @@ Importing created model into admin.....
 	In admin.py we use the following,
 		from .models import class_name_inside_the_product
 		admin.site.register(class_name_inside_the_product)
+
+Upto the above process we used python admin to add the products..............................
+
+Now we try to use the python shell to add the products
+
+python manage.py shell
+from product_name.models import *
+class_name.objects.all() # To show all the products inside the app
+class_name.objects.create(attributes=values,....) # To all values into database
