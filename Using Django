@@ -22,3 +22,9 @@ Now include the created app in settings.py
 Now all the migrations are done inside the working directory
 python manage.py makemigrations
 python manage.py migrate
+All we do makemigrations and migrate when there is change in models.py
+
+Importing created model into admin.....
+	In admin.py we use the following,
+		from .models import class_name_inside_the_product
+		admin.site.register(class_name_inside_the_product)
