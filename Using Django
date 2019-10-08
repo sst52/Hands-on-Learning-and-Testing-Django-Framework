@@ -12,4 +12,9 @@ For creating an app -- python manage.py startapp app_name
 
 For renaming the app -- python manage.py startapp Changing_name
 
-Main portion of created app is models.py
+Main portion of created app is models.py -----
+
+		class product(models.Model):
+			-----body of the app-------
+
+Now include the created app in settings.py
