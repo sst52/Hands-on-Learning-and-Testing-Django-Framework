@@ -11,3 +11,5 @@ For creating the user python manage.py createsuperuser -- To login into Django A
 For creating an app -- python manage.py startapp app_name
 
 For renaming the app -- python manage.py startapp Changing_name
+
+Main portion of created app is models.py
