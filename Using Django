@@ -18,3 +18,7 @@ Main portion of created app is models.py -----
 			-----body of the app-------
 
 Now include the created app in settings.py
+
+Now all the migrations are done inside the working directory
+python manage.py makemigrations
+python manage.py migrate
