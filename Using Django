@@ -8,3 +8,4 @@ For look into Django Services we use python manage.py migrate
 
 For creating the user python manage.py createsuperuser -- To login into Django Admin for creating databases
 
+For creating an app -- python manage.py startapp app_name
