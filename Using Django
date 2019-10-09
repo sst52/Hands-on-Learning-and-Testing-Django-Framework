@@ -38,4 +38,3 @@ from product_name.models import *
 class_name.objects.all() # To show all the products inside the app
 class_name.objects.create(attributes=values,....) # To all values into database
 
-44:34
