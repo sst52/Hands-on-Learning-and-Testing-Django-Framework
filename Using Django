@@ -46,3 +46,5 @@ attributs: blank and null # If both are true then adding null value to the attri
 
 *******Shown error in DecimalField
 *******Fixed error through TextField replacements.....
+
+Change in Fields Type: Type of fields can be changed after creation and insertion of data in them.
