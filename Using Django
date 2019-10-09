@@ -39,3 +39,5 @@ class_name.objects.all() # To show all the products inside the app
 class_name.objects.create(attributes=values,....) # To all values into database
 
 Fields of data in Django can be caught in field-types of django documentation (google it...)
+
+CharField(max_length=value) # For storing string of fixed length
