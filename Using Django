@@ -45,3 +45,4 @@ CharField(max_length=value) # For storing string of fixed length.....It is resti
 attributs: blank and null # If both are true then adding null value to the attributes in DB is possible
 
 *******Shown error in DecimalField
+*******Fixed error through TextField replacements.....
